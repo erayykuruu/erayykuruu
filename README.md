@@ -11,7 +11,7 @@ I specialize in languages such as Python and C. I graduated from Yeditepe Univer
 During my university life, I made many projects in this field. 
 After graduating from university, I continue to improve myself with many trainings because, as it is known, artificial intelligence has a very wide field.
 
-- :mailbox:How to contact me: [![Eray Kuru LinkedIn](https://img.shields.io/badge/-Eray%20Kuru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erayykuru97)
+- :mailbox: How to contact me: [![Eray Kuru LinkedIn](https://img.shields.io/badge/-Eray%20Kuru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erayykuru97)
                               [![Eray Kuru Email](https://img.shields.io/badge/-Eray%20Kuru-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eray7fener@gmail.com)
 
 ---
