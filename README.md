@@ -6,6 +6,10 @@
 
 ### 👨‍💻 About Me :
 I am a Junior Data Scientist from Turkey.
+Hello! I'm Eray. I have a strong technical background in machine learning and deep learning, which are subsets of artificial intelligence. 
+I specialize in languages such as Python and C.
+I graduated from Yeditepe University in late 2023. During my university life, I made many projects in this field. 
+After graduating from university, I continue to improve myself with many trainings because, as it is known, artificial intelligence has a very wide field.
 
 - :mailbox:How to reach me: [![Eray Kuru LinkedIn](https://img.shields.io/badge/-Eray%20Kuru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erayykuru97)
 
