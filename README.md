@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/art-pixel-tech-Tz30dcgKE3GCTYpxol" width="100"/>
 </div>
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/erayykuru97/">
@@ -20,7 +20,6 @@ I am a Junior Data Scientist from Turkey.
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=erayykuruu&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erayykuruu&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayykuruu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
