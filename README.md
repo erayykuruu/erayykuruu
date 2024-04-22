@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/art-pixel-tech-Tz30dcgKE3GCTYpxol">
+  <img src="https://media.giphy.com/gifs/art-pixel-tech-Tz30dcgKE3GCTYpxol">
 </div>
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/erayykuru97/">
