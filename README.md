@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![Yapay Zeka Giphy](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+ 
 </div>
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/erayykuru97/">
